@@ -18,15 +18,6 @@ Welcome to my GitHub profile! I'm just a student in the University of Athens (UO
 
 ---
 
-## 🛠️ Featured Projects
-### 🚀 [My Awesome Project](https://github.com/agargallis/my-awesome-project)
-- A project that does something amazing!
-- **Technologies**: React.js, Node.js, MongoDB
-
-### 🌐 [Another Cool Project](https://github.com/agargallis/another-cool-project)
-- An innovative tool to simplify tasks.
-- **Technologies**: Python, Flask, SQLAlchemy
-
 ---
 
 ## 📫 Connect With Me
