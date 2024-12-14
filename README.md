@@ -1,16 +1,15 @@
 # agargallis
 💢Personal Profile💢
-# 👋 Hi, I'm Agargallis
+# 👋 Hi, I'm Antonis Gargallis
 
-Welcome to my GitHub profile! I'm a developer passionate about creating impactful software solutions and continuously learning new technologies.
+Welcome to my GitHub profile! I'm a student ibeginner developer passionate about creating impactful software solutions and continuously learning new technologies.
 
 ---
 
 ## 🌟 About Me
-- 🎓 **Education**: Self-motivated learner with a background in computer science.
-- 💻 **Skills**: Experienced in Python, JavaScript, and C.
-- 🌱 **Currently Learning**: Advanced React.js and exploring Rust.
-- 🎯 **Hobbies**: Solving puzzles, gaming, and contributing to open-source projects.
+- 🎓 **Education**: Department of Informatics and Telecommunications
+- 💻 **Skills**: Learner in C and VHDL.
+- 🎯 **Hobbies**: Playing basketball and trying to get accustomed to Computer Science.
 
 ---
 
