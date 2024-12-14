@@ -7,7 +7,7 @@
 <a href="https://agargallis.github.io">↗️Check Me↖️</a>
 
 # 👋 Hi, I'm Antonis Gargallis
-- 🎓 **Education**: Department of Informatics and Telecommunications.
+- 🎓 **Education**: Department of Informatics and Telecommunications in  National & Kapodistrian University of Athens.
 - 💻 **Skills**: Learner in C and VHDL.
  <p align="center">
   <a href="">
