@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Antonis Gargallis
 
-Welcome to my GitHub profile! I'm just a student in the University of Athens (UOA) and a beginner developer who is trying step by step to learn lots of interesting Informatics skills.
+Welcome to my GitHub profile! I'm just a student in the University of Athens (UOA) and a beginner developer who is trying step by step to learn lots of interesting Informatics and Maths skills.
 
 ---
 
