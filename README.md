@@ -2,7 +2,7 @@
   <a href="">
     <img src="https://github.com/user-attachments/assets/5433a9e1-ebed-4e50-acb7-6b07721495b0" />
   </a>
-
+- 🌐 My Website: [agargallis.github.io](https://agargallis.github.io)
   
 
 # 👋 Hi, I'm Antonis Gargallis
@@ -25,7 +25,6 @@ Welcome to my GitHub profile! I'm just a student in the University of Athens (UO
 
 ## 📫 Connect With Me
 - 📧 Email: [antonisgargallis@gmail.com](mailto:antonisgargallis@gmail..com)
-- 🌐 My Website: [agargallis.github.io](https://agargallis.github.io)
 - 💼 LinkedIn: [Antonis Gargallis](https://gr.linkedin.com/in/antonis-gargallis-0713ba326)
 - 🆘 Discord: [DIT](https://discord.gg/qXGdk4j5)
 
