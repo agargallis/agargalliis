@@ -1,7 +1,7 @@
 # agargallis
 # 👋 Hi, I'm Antonis Gargallis
 
-Welcome to my GitHub profile! I'm a student ibeginner developer passionate about creating impactful software solutions and continuously learning new technologies.
+Welcome to my GitHub profile! I'm just a university student and a beginner developer who is trying step by step to learn lots of intersting Informatics Skills.
 
 ---
 
@@ -30,15 +30,11 @@ Welcome to my GitHub profile! I'm a student ibeginner developer passionate about
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 📧 Email: [your-email@example.com](mailto:antonisgargallis@gmail..com)
 - 🌐 Portfolio: [www.agargallis.dev](https://www.agargallis.dev)
 - 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/agargallis)
 
 ---
 
-## 🌟 Fun Fact
-Did you know? Debugging is like solving a mystery where you’re both the detective and the culprit!
-
----
-
-Thanks for visiting my profile! Feel free to explore my repositories or reach out to collaborate. 😊
+## 🌟 Significant Note
+Never sto trying till the biggest success!
