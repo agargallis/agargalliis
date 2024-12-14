@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm just a student in the University of Athens (UO
 
 ---
 
-## 🌟 About Me
+# 🌟 About Me
 - 🎓 **Education**: Department of Informatics and Telecommunications.
 - 💻 **Skills**: Learner in C and VHDL.
  <p align="center">
