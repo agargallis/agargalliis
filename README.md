@@ -26,6 +26,6 @@ Welcome to my GitHub profile! I'm just a student in the University of Athens (UO
 ## 📫 Connect With Me
 - 📧 Email: [antonisgargallis@gmail.com](mailto:antonisgargallis@gmail..com)
 - 🌐 My Website: [agargallis.github.io](https://agargallis.github.io)
-- 💼 LinkedIn: [agargallis](https://gr.linkedin.com/in/antonis-gargallis-0713ba326)
+- 💼 LinkedIn: [Antonis Gargallis](https://gr.linkedin.com/in/antonis-gargallis-0713ba326)
 
 ---
