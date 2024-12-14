@@ -1,4 +1,9 @@
 # agargallis
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://github.com/user-attachments/assets/5433a9e1-ebed-4e50-acb7-6b07721495b0)" />
+  </a>
+
 # 👋 Hi, I'm Antonis Gargallis
 
 Welcome to my GitHub profile! I'm just a student in the University of Athens (UOA) and a beginner developer who is trying step by step to learn lots of interesting Informatics skills.
