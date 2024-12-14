@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a student ibeginner developer passionate about
 ---
 
 ## 🔧 Technologies & Tools
-![Languages](https://img.shields.io/badge/Languages-C%20|%20Python%20|%20JavaScript-blue?style=for-the-badge)
+![Languages](http://www.w3.org/2000/svg)
 ![Tools](https://img.shields.io/badge/Tools-Git%20|%20Docker%20|%20VSCode%20|%20Linux-orange?style=for-the-badge)
 
 ---
