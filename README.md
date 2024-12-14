@@ -13,8 +13,6 @@ Welcome to my GitHub profile! I'm just a student in the University of Athens (UO
 ---
 
 ## 🔧 Technologies & Tools
-![Languages](https://img.shields.io/badge/Languages-C%20|%20Python%20|%20JavaScript-blue?style=for-the-badge)
-![Tools](https://img.shields.io/badge/Tools-Git%20|%20Docker%20|%20VSCode%20|%20Linux-orange?style=for-the-badge)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
