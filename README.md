@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm just a student in the University of Athens (UO
 - 📧 Email: [antonisgargallis@gmail.com](mailto:antonisgargallis@gmail..com)
 - 🌐 My Website: [agargallis.github.io](https://agargallis.github.io)
 - 💼 LinkedIn: [Antonis Gargallis](https://gr.linkedin.com/in/antonis-gargallis-0713ba326)
-- 🆘 Discord: [Witty](https://discord.com/agargallis)
+- 🆘 Discord: [DIT](https://discord.gg/qXGdk4j5)
 
   <p align="center">
   <a href="https://skillicons.dev">
