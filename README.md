@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm just a student in the University of Athens (UO
 - 💻 **Skills**: Learner in C and VHDL.
  <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=c,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,htmx,vscode" />
   </a>
 
 
