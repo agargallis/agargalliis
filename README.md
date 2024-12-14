@@ -28,4 +28,4 @@ Welcome to my GitHub profile! I'm just a student in the University of Athens (UO
 ---
 
 ## 🌟 Significant Note
-Never sto trying till the biggest success!
+Never stop trying till the biggest success!
