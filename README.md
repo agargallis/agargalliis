@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm just a student in the University of Athens (UO
 
   <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=gmail,linkedin,discord" />
+    <img src="https://skillicons.dev/icons?i=gmail,linkedin,discord,instagram" />
   </a>
 </p>
 
