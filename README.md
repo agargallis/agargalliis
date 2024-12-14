@@ -1,7 +1,7 @@
 # agargallis
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://github.com/user-attachments/assets/5433a9e1-ebed-4e50-acb7-6b07721495b0)" />
+    <img src="https://github.com/user-attachments/assets/5433a9e1-ebed-4e50-acb7-6b07721495b0" />
   </a>
 
 # 👋 Hi, I'm Antonis Gargallis
