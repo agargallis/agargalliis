@@ -29,4 +29,11 @@ Welcome to my GitHub profile! I'm just a student in the University of Athens (UO
 - 💼 LinkedIn: [Antonis Gargallis](https://gr.linkedin.com/in/antonis-gargallis-0713ba326)
 - 🆘 Discord: [Witty](https://discord.com/agargallis)
 
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail,linkedin,discord" />
+  </a>
+</p>
+
+
 ---
