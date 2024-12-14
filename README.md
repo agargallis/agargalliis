@@ -5,10 +5,6 @@
   </a>
 
   
-   <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://github.com/user-attachments/assets/eb5b9c40-5d6c-47d1-bda7-8bc88e0068e2/>
-  </a>
 
 # 👋 Hi, I'm Antonis Gargallis
 
@@ -41,4 +37,8 @@ Welcome to my GitHub profile! I'm just a student in the University of Athens (UO
 </p>
 
 
----
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://github.com/user-attachments/assets/eb5b9c40-5d6c-47d1-bda7-8bc88e0068e2/>
+  </a>
+     ---
