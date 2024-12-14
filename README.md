@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://github.com/user-attachments/assets/5433a9e1-ebed-4e50-acb7-6b07721495b0" />
   </a>
 
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm just a student in the University of Athens (UO
 - 🎓 **Education**: Department of Informatics and Telecommunications.
 - 💻 **Skills**: Learner in C and VHDL.
  <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=c,vscode" />
   </a>
 
@@ -30,14 +30,14 @@ Welcome to my GitHub profile! I'm just a student in the University of Athens (UO
 - 🆘 Discord: [DIT](https://discord.gg/qXGdk4j5)
 
   <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=gmail,linkedin,discord" />
   </a>
 </p>
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://github.com/user-attachments/assets/eb5b9c40-5d6c-47d1-bda7-8bc88e0068e2/>
   </a>
      ---
