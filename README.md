@@ -1,5 +1,4 @@
 # agargallis
-💢Personal Profile💢
 # 👋 Hi, I'm Antonis Gargallis
 
 Welcome to my GitHub profile! I'm a student ibeginner developer passionate about creating impactful software solutions and continuously learning new technologies.
