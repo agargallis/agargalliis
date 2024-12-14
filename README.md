@@ -13,7 +13,11 @@ Welcome to my GitHub profile! I'm just a student in the University of Athens (UO
     <img src="https://skillicons.dev/icons?i=c,vscode" />
   </a>
 </p>
-![image](https://github.com/user-attachments/assets/bae61353-8c7f-41f4-ab93-8634b9965d60)
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://github.com/user-attachments/assets/bae61353-8c7f-41f4-ab93-8634b9965d60" />
+  </a>
+</p>
 
 
 ---
