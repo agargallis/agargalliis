@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm just a student in the University of Athens (UO
 ## 🔧 Technologies & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,vhdl" />
+    <img src="https://skillicons.dev/icons?i=c,vscode" />
   </a>
 </p>
 
