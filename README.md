@@ -10,14 +10,9 @@ Welcome to my GitHub profile! I'm just a student in the University of Athens (UO
 - 💻 **Skills**: Learner in C and VHDL.
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,vscode,vhdl" />
   </a>
-</p>
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://github.com/user-attachments/assets/fdbcf119-39c0-4e8f-866a-5dccedacc3eb/>
-  </a>
-</p>
+
 
 
 ---
