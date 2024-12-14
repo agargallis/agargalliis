@@ -4,7 +4,7 @@
   </a>
   
 <p align="center"> 
-<a href="https://agargallis.github.io">Check Me</a>
+<a href="https://agargallis.github.io">↗️Check Me↖️</a>
 
 # 👋 Hi, I'm Antonis Gargallis
 
