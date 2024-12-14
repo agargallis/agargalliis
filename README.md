@@ -2,12 +2,8 @@
   <a href="">
     <img src="https://github.com/user-attachments/assets/5433a9e1-ebed-4e50-acb7-6b07721495b0" />
   </a>
-  ---
-   <p align="center">
-  <a href="">
-    <img src="https://agargallis.github.io" />
-  </a>
-  ---
+  
+<a href="https://www.example.com">Check Me</a>
 
 # 👋 Hi, I'm Antonis Gargallis
 
