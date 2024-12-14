@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm just a student in the University of Athens (UO
 ## 🌟 About Me
 - 🎓 **Education**: Department of Informatics and Telecommunications.
 - 💻 **Skills**: Learner in C and VHDL.
-- <p align="center">
+ <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,vscode" />
   </a>
