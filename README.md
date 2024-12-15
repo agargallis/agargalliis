@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Antonis Gargallis
 - 🎓 **Education**: Department of Informatics and Telecommunications in  National & Kapodistrian University of Athens.
-- 💻 **Skills**: Learner in C and VHDL.
+- 💻 **Skills**: Learner in Computer Science.
  <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=c,htmx,vscode" />
