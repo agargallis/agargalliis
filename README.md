@@ -25,7 +25,7 @@
 
   <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=gmail,linkedin,instagram,discord" />
+    <img src="https://skillicons.dev/icons?i=gmail,linkedin,instagram" />
   </a>
 </p>
 
